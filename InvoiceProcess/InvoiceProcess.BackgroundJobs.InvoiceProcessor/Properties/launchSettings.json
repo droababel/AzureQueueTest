@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "InvoiceProcess.BackgroundJobs.InvoiceProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7048",
+      "launchBrowser": false
+    }
+  }
+}
